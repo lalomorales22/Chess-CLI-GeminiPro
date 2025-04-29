@@ -22,7 +22,7 @@ A command-line interface (CLI) Chess game built in Java where a human player (Wh
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/lalomorales22/Chess-CLI-GeminiPro.git](https://github.com/lalomorales22/Chess-CLI-GeminiPro.git)
+    git clone https://github.com/lalomorales22/Chess-CLI-GeminiPro.git
     cd Chess-CLI-GeminiPro
     ```
 2.  **Verify JAR:** The required `org.json-1.6-20240205.jar` library is included in the repository. Ensure it's present in the main directory alongside `CliChessGame.java`.
