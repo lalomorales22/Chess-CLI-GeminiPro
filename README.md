@@ -1,4 +1,5 @@
 # Chess-CLI-GeminiPro
+<img width="455" alt="Screenshot 2025-04-28 at 11 47 54 PM" src="https://github.com/user-attachments/assets/81d6d38b-cb0a-4320-9d30-84436aa945e9" />
 
 A command-line interface (CLI) Chess game built in Java where a human player (White) competes against a Gemini AI model (Black). The game includes basic chess move validation, AI move generation via the Gemini API, and an in-game chat feature.
 
